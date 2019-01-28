@@ -1,0 +1,20 @@
+{
+    "funcionarios": [
+        {
+            "id": "1",
+            "nome": "kleiton trevisol ferreira",
+            "cpf": "081.999.999-05",
+            "hora_min_trabalhado": "08:02:00",
+            "data_trabalho": "2019-01-25",
+            "timestamp": "2019-01-28 16:59:00"
+        },
+        {
+            "id": "2",
+            "nome": "Fulano Sauro Bento",
+            "cpf": "999.111.111-11",
+            "hora_min_trabalhado": "09:12:00",
+            "data_trabalho": "2019-01-24",
+            "timestamp": "2019-01-28 17:00:00"
+        }
+    ]
+}
